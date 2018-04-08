@@ -4,23 +4,30 @@ body{
 }
 .navbar{
     color: hotpink;
-    float: none;
-    vertical-align: top;
+    background-color: black;
 }
-.navbar-brand{
-    font-weight: bold;
-    font-size: 75px;
-    margin-left: 200px;
+#navbarLogo{
+    width: 15%;
 }
 .nav-item{
     font-size: 50px;
-    text-align: center;
-    margin-left: 40%;
+    margin-right: 150px;
 }
 .jumbotron{
     height: 200px;
     background-color: black;
 }
 .carousel{
-    height: 400px;
+    margin: auto;
+    padding: 30px;
+}
+.hoursInfo{
+    text-align: center;
+    color: white;
+    border: solid 1px white;
+}
+.contactInfo{
+    text-align: center;
+    color: white;
+    border: solid 1px white;
 }
