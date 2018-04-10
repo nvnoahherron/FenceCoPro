@@ -25,9 +25,21 @@ body{
     text-align: center;
     color: white;
     border: solid 1px white;
+    padding: 5px;
 }
 .contactInfo{
     text-align: center;
     color: white;
     border: solid 1px white;
+    padding: 30px;
+}
+#galleryPhotos{
+    height: 100%;
+    width: 100%;
+    border: solid 1px hotpink;
+    border-radius: 5%;
+    margin:auto;
+}
+#galleryRow{
+    margin: auto;
 }
